@@ -1,10 +1,3 @@
-"""
-https://dev.to/cuongld2/build-simple-api-service-with-python-fastapi-part-1-581o
-https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework
-https://testdriven.io/blog/fastapi-crud/
-https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
-"""
-
 from database import *
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
